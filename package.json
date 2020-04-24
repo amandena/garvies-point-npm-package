@@ -1,0 +1,23 @@
+{
+  "name": "garvies-point-npm-package",
+  "version": "1.0.0",
+  "description": "A simple data scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandena/garvies-point-npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-garvies-point-package"
+  ],
+  "author": "Amanda Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandena/garvies-point-npm-package/issues"
+  },
+  "homepage": "https://github.com/amandena/garvies-point-npm-package#readme"
+}
