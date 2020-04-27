@@ -15,9 +15,13 @@
     "npm-garvies-point-package"
   ],
   "author": "Amanda Johnson",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/amandena/garvies-point-npm-package/issues"
   },
-  "homepage": "https://github.com/amandena/garvies-point-npm-package#readme"
+  "homepage": "https://github.com/amandena/garvies-point-npm-package#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
 }
